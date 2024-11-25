@@ -3,7 +3,7 @@ import { getPosts } from '@/libs/getPost'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'VMH Blogs',
+  title: 'MH Blogs',
   description: 'Welcome to my tech blog.',
 }
 
