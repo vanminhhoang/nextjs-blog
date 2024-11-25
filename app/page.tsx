@@ -3,7 +3,8 @@ import { getPosts } from '@/libs/getPost'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'VMB Blogs',
+  title: 'VMH Blogs',
+  description: 'Welcome to my tech blog.',
 }
 
 const HomePage = async () => {
