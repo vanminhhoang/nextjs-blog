@@ -3,8 +3,6 @@ import { getPostContent } from '@/libs/getPost'
 import { getPosts } from '@/libs/getPost'
 import { Metadata } from 'next'
 
-export const dynamicParams = false
-
 export const generateMetadata = async ({
   params,
 }: {
